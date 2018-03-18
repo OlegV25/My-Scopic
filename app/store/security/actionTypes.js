@@ -1,0 +1,3 @@
+export const SECURITY_GET_MY = 'security.SECURITY_GET_MY'
+export const SECURITY_GET_MY_SUCCESS = 'security.SECURITY_GET_MY_SUCCESS'
+export const SECURITY_GET_MY_ERROR = 'security.SECURITY_GET_MY_ERROR'
